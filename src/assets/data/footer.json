@@ -1,7 +1,7 @@
 {
     "AboutSession":[
         {
-            "LinkName":"GDG Jalandhar",
+            "LinkName":"GDG Porto",
             "Link":"/"
         },
         {
@@ -14,21 +14,21 @@
         },
         {
             "LinkName":"Become a Member",
-            "Link":"https://www.meetup.com/GDG-Jalandhar/"
+            "Link":"https://www.meetup.com/GDG-Porto/"
         }
     ],
     "ChapterResourcesSession":[
         {
             "LinkName" : "Become a Sponsor",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:info@gdgporto.xyz"
         },
         {
             "LinkName" : "Call for Speaker",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "https://goo.gl/forms/8jRzUOvL0mA0CXbj1"
         },
         {
             "LinkName" : "Media Kit",
-            "Link" : "https://drive.google.com/drive/folders/16rHDaHbuS_YApMWgJHUxygpd-A5gCkLK"
+            "Link" : ""
         }
     ],
     "DevConsole":[
