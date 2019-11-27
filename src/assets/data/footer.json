@@ -1,8 +1,8 @@
 {
     "AboutSession":[
         {
-            "LinkName":"GDG Porto",
-            "Link":"/"
+            "LinkName":"GDG Porto team",
+            "Link":"https://www.meetup.com/GDG-Porto/members/?op=leaders"
         },
         {
             "LinkName":"Google Developers Groups",
