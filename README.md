@@ -2,11 +2,11 @@
 
 <!-- [![Build Status](https://travis-ci.org/Vrijraj/aura.svg?branch=master)](https://travis-ci.org/Vrijraj/aura) -->
 
-<img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/Aura.png">
+<img width="100%" src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/Aura%20v1.0.3.png">
 
-Standard Web App for GDG Communties. <br>
+Standard Web App for GDG's Communties. <br>
 [Demo](https://aura-client-master.firebaseapp.com/) <br>
-Version: 1.0.2
+Version: 1.0.5
 
 ## Overview
 
@@ -90,14 +90,31 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * [Vuetify](https://vuetifyjs.com/en/)
 * [Firebase](https://firebase.google.com/)
 * [Service Worker & PWA](https://www.npmjs.com/package/vue-pwa)
+* [Workbox](https://developers.google.com/web/tools/workbox)
 
 ### View Website Built with Project 
 
 | Community Name | Web App Link | 
 | --- | --- | 
 | GDG Jalandhar | [View Now](https://gdgjalandhar.com) |
-
-
+| GDG Kuala Lumpur | [View Now](https://www.gdgkl.dev/) |
+| GDG Fortaleza | [View Now](http://gdgfortaleza.com.br/) |
+| GDG Kozhikode | [View Now](https://gdgkozhikode.org/) |
+| GDG Delta | [View Now](https://gdgdelta.com/) |
+| GDG Tokyo | [View Now](https://tokyo.gdgjapan.org/) |
+| GDG Yangon | [View Now](https://gdgyangon.org/) |
+| GDG Gran Canaria | [View Now](https://gdggrancanaria.org/) |
+| GDG Santander | [View Now](https://gdgsantander.com/) |
+| GDG Ciudad del Este | [View Now](http://gdgcde.org/) |
+| GDG Ilorin | [View Now](https://gdg-ilorin-d9f0d.firebaseapp.com/) |
+| GDG Chetumal | [View Now](https://gdg-chetumal.firebaseapp.com/) |
+| GDG Porto | [View Now](https://gdgporto-aura.firebaseapp.com/) |
+| GDG Istanbul | [View Now](https://gdgist.firebaseapp.com/) |
+| GDG Port-of-Spain | [View Now](https://gdgpos.com/) |
+| GDG Jeddah | [View Now](https://www.gdgjed.com/home) |
+| GDG Sevilla | [View Now](https://www.gdgsevilla.com/) |
+| GDG Madeira | [View Now](https://gdgmadeira.xyz/) |
+| GDG Chandigarh | [View Now](https://gdg-chd.web.app/) |
 
 
 
