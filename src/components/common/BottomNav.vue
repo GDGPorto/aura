@@ -61,7 +61,7 @@
         router
         to="/contact"
       >
-        <span>Contant</span>
+        <span>Contact</span>
         <v-icon>person</v-icon>
       </v-btn>
 
