@@ -11,7 +11,7 @@
         <p
           class="google-font mt-0 mb-0"
           style="font-size:120%"
-        >Our events are open to newbies, developers, managers, and organizations who are interested in Google's technologies or use them as part of their projects.</p>
+        >Our events are open to everyone: newbies and experts, students and professionals, developers designers and managers.</p>
       </v-flex>
     </v-layout>
 
@@ -110,7 +110,7 @@
 
       <v-flex xs12 v-if="notFoundUpcomingEventFlag==true">
         <p class="google-font px-2" style="font-size:140%">
-          <v-icon>highlight_off</v-icon>Upcoming Events Not Found!
+          <v-icon>highlight_off</v-icon>The next upcoming event is upcoming!
         </p>
       </v-flex>
     </v-layout>
