@@ -30,7 +30,7 @@
         <v-icon>rounded_corner</v-icon>
       </v-btn>
 
-      <v-btn
+      <!-- <v-btn
         color="#518FF5"
         flat
         value="team"
@@ -39,7 +39,7 @@
       >
         <span>Team</span>
         <v-icon>group</v-icon>
-      </v-btn>
+      </v-btn> -->
 
       <v-btn
         color="#518FF5"
@@ -54,7 +54,7 @@
 
       
 
-      <!-- <v-btn
+       <v-btn
         color="#518FF5"
         flat
         value="contact"
@@ -63,7 +63,7 @@
       >
         <span>Contant</span>
         <v-icon>person</v-icon>
-      </v-btn> -->
+      </v-btn>
 
     </v-bottom-nav>
   </v-card>

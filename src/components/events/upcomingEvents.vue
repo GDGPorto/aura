@@ -110,7 +110,7 @@
 
       <v-flex xs12 v-if="notFoundUpcomingEventFlag==true">
         <p class="google-font px-2" style="font-size:140%">
-          <v-icon>highlight_off</v-icon>The next upcoming event is upcoming!
+          <v-icon>highlight_off</v-icon>We are preparing the next event!
         </p>
       </v-flex>
     </v-layout>
@@ -186,7 +186,7 @@
 
       <v-flex xs12 v-if="notFoundUpcomingEventFlag==true">
         <p class="google-font px-2" style="font-size:140%">
-          <v-icon>highlight_off</v-icon>Upcoming Events Not Found!
+          <v-icon>highlight_off</v-icon>We are preparing the next event!
         </p>
       </v-flex>
     </v-layout>
