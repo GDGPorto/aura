@@ -1,6 +1,6 @@
 {
-    "FeatureEventName":"GDG DevFest Porto",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"GDG Porto DevFest",
+    "EventImage":"devfest_300.jpg",
     "EventDate":{
         "Date":"04",
         "Month":"04",
@@ -10,12 +10,12 @@
         "StartTime":"09:00",
         "EndTime":"18:30"
     },
-    "EventVenue":"ISEP",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
-    "FBEventPageURL":"s"
+    "EventVenue":"ISEP (pending confirmation)",
+    "EventVenueMapLink":"https://goo.gl/maps/HW53A2VFti2sgQJD6",
+    "EventWebsite":"https://devfest.gdgporto.xyz",
+    "EventDescription":"DevFest is a community-run developer event that focus on bridging together the community and Google's technologies.",
+    "MeetupLink":"https://www.meetup.com/GDG-Porto/",
+    "RegistrationLink":"https://devfest.gdgporto.xyz",
+    "FBEventPageURL":"https://www.facebook.com/GDGPorto/"
 }
 

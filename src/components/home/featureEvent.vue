@@ -19,7 +19,7 @@
             </v-flex>
            <v-flex xs12 sm8 md9 lg9 class="pa-2 py-4 px-3" >
                 <p class="google-font mb-0" style="font-size:150%;color:rgb(2, 119, 189)">{{eventDetails.FeatureEventName}}</p>
-                <span class="google-font mt-1 mb-0 grey--text"  style="font-size:105%">
+             <!--  < span class="google-font mt-1 mb-0 grey--text"  style="font-size:105%">
                     <v-icon small>insert_invitation</v-icon>
                     {{eventDetails.EventDate.Date +'/'+ eventDetails.EventDate.Month +'/'+ eventDetails.EventDate.Year}} 
                     &nbsp;
@@ -28,7 +28,7 @@
                     &nbsp;
                     <v-icon small>map</v-icon>
                     {{eventDetails.EventVenue | summery(50)}} <a :href="eventDetails.EventVenueMapLink" target="_blank">(Map)</a>
-                </span>    
+                </span>            -->
                <p class="google-font mt-2 mb-1" style="font-size:115%;color:#757575">
                    {{eventDetails.EventDescription}}
                </p>

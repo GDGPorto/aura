@@ -1,6 +1,10 @@
 {
     "AboutSession":[
         {
+            "LinkName":"GDG Porto DevFest",
+            "Link":"https://devfest.gdgporto.xyz"
+        },
+        {
             "LinkName":"GDG Porto team",
             "Link":"https://www.meetup.com/GDG-Porto/members/?op=leaders"
         },

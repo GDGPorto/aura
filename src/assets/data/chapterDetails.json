@@ -22,6 +22,16 @@
             "name" : "Meetup",
             "link" : "https://www.meetup.com/GDG-Porto/",
             "icon" : "fab fa-meetup"
+        },
+        {
+            "name" : "YouTube",
+            "link" : "https://m.youtube.com/channel/UCbk5t8o_gkmR-zQemAgDOkA",
+            "icon" : "fab fa-youtube"
+        },
+        {
+            "name" : "Slack",
+            "link" : "https://gdgporto.slack.com/",
+            "icon" : "fab fa-slack"
         }
     ],
     "wtmWebsite":"https://www.womentechmakers.com/",
